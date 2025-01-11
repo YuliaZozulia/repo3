@@ -1,1 +1,2 @@
 I install the source tree program
+i want to pull rnew information from GitHub to local
